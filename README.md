@@ -1,7 +1,7 @@
 # ⚡ AI-Powered Energy Consumption Forecasting System
 
 ## 📌 Project Overview
-This project predicts household energy consumption using Machine Learning.
+This project predicts household energy consumption using Artificial Intelligence.
 
 ## 🚀 Features
 - Time-series forecasting
