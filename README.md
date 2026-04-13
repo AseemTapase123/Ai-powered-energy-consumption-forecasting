@@ -1,2 +1,47 @@
-# Ai-powered-energy-consumption-forecasting
-Energy forecasting using ML
+# ⚡ AI-Powered Energy Consumption Forecasting System
+
+## 📌 Project Overview
+This project predicts household energy consumption using Machine Learning.
+
+## 🚀 Features
+- Time-series forecasting
+- Feature engineering (lag, time-based)
+- Streamlit web app for predictions
+- User CSV upload support
+
+## 🛠 Tech Stack
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Streamlit
+
+## 📊 Model
+- Random Forest Regressor
+- Trained on Household Power Consumption dataset
+
+## ▶️ How to Run
+
+1. Clone repo:
+
+
+2. Install dependencies:
+pip install -r requirements.txt
+
+3. Run app:streamlit run app.py
+
+
+## 📁 Input Format
+Upload CSV with columns:
+- Sub_metering_3
+- hour
+- day
+- month
+- weekday
+- lag_1
+- lag_24
+
+## 📈 Output
+- Predicted energy consumption values
+
+## 👨‍💻 Author
+Aseem Tapase
