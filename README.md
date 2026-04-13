@@ -43,5 +43,9 @@ Upload CSV with columns:
 ## 📈 Output
 - Predicted energy consumption values
 
+## 📸 Project Screenshot
+
+![App Screenshot](screenshot.png)
+
 ## 👨‍💻 Author
 Aseem Tapase
